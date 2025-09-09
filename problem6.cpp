@@ -7,7 +7,6 @@ int main() {
     cin >> a >> b;
     cout << "Sum: " << a << " + " << b << " = " << a + b << endl;
     return 0;
-
 }
 
 
